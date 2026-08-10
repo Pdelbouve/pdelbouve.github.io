@@ -8,33 +8,59 @@ author_profile: true
 
 ### Diffusion de l'intelligence artificielle en France
 
-Short description of the paper.
+*with Philippe Aghion, Antonin Bergeaud and Simon Bunel*
+
+Using more than 120 million online job postings in France since 2019, 
+we document the diffusion of artificial intelligence across firms, sectors 
+and regions, and study its effects on labor demand. We find that AI adoption 
+is highly concentrated and is associated with higher productivity, revenues 
+and employment, together with a reallocation of hiring across occupations.
 
 [Paper](/files/aghion2025diffusion.pdf)
 
+
 ## Work in Progress
 
-### China shock 3.0 ? Creative destruction in the AI sector
+### China Shock 3.0? Creative Destruction in the AI Sector
 
-Short description of the paper.
+*with [Coauthor(s)]*
+
+Short description of the project.
 
 [Paper](/files/AI_innovation.pdf) · [Slides](/files/AI_innovation_slides.pdf)
 
 
 ### AI Adoption, Firm Dynamics and Competition
 
-Short description of the project.
-
-
-## Machine-learning papers
-
-### Consistent metropolitan boundaries for the remote sensing of urban land (2023)
+*with [Coauthor(s)]*
 
 Short description of the project.
+
+
+## Machine Learning and Remote Sensing
+
+### Consistent metropolitan boundaries for the remote sensing of urban land
+
+*with Michiel N. Daams, Alexandre Banquet and Paolo Veneri*  
+*Remote Sensing of Environment, 2023*
+
+We introduce an internationally consistent definition of metropolitan areas 
+for remote-sensing applications and apply it to 687 European metropolitan 
+areas. Combining Sentinel satellite imagery with deep learning, we show that 
+the choice of urban boundaries matters for both estimated land use and 
+classification accuracy.
 
 [Paper](/files/daams2023consistent.pdf)
 
-### Monitoring land use in cities using satellite imagery and deep learning (2022)
 
-Short description of the project.
+### Monitoring land use in cities using satellite imagery and deep learning
+
+*with Alexandre Banquet, Michiel N. Daams and Paolo Veneri*  
+*OECD Regional Development Papers, 2022*
+
+We develop a deep-learning approach to monitor urban land use from Sentinel 
+satellite imagery. Applying a U-Net model to 687 European metropolitan areas, 
+we map residential and business-related land use and provide a scalable 
+framework for tracking urban development consistently and in near real time.
+
 [Paper](/files/veneri2022monitoring.pdf)
