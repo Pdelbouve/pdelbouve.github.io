@@ -7,7 +7,7 @@ author_profile: true
 ## Working Papers
 
 ### Diffusion de l'intelligence artificielle en France
-*with Philippe Aghion, Antonin Bergeaud and Simon Bunel*   [[Paper](/files/aghion2025diffusion.pdf)]
+*with Philippe Aghion, Antonin Bergeaud and Simon Bunel*  [[Paper](/files/aghion2025diffusion.pdf)]
 
 Using more than 120 million online job postings in France since 2019, 
 we document the diffusion of artificial intelligence across firms, sectors 
@@ -30,8 +30,7 @@ Using weekly model-level usage and price data from OpenRouter, combined with cap
 
 ### Consistent metropolitan boundaries for the remote sensing of urban land
 
-*with Michiel N. Daams, Alexandre Banquet and Paolo Veneri*  [[Paper](/files/daams2023consistent.pdf)]  
-*[Remote Sensing of Environment, 2023](https://www.sciencedirect.com/science/article/pii/S0034425723003401)*
+*with Michiel N. Daams, Alexandre Banquet and Paolo Veneri*  [[Paper](/files/daams2023consistent.pdf)] *[Remote Sensing of Environment, 2023](https://www.sciencedirect.com/science/article/pii/S0034425723003401)*
 
 We introduce an internationally consistent definition of metropolitan areas 
 for remote-sensing applications and apply it to 687 European metropolitan 
