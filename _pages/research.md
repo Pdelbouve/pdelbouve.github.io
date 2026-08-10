@@ -24,12 +24,12 @@ and employment, together with a reallocation of hiring across occupations.
 
 Using weekly model-level usage and price data from OpenRouter, combined with capability measures from Artificial Analysis, this project examines the creation and destruction of innovation rents in the AI-model market. Frontier releases generate large but short-lived gains, while entry by cheaper comparable-quality models erodes incumbent usage and market share through substantial business stealing. Yet leading providers continue to benefit from rapid market expansion and retain a segment of users willing to pay for premium-quality models. These dynamics are rationalized with a Schumpeterian model of frontier innovation and low-cost catch-up.
 
-[Paper][Comming soon !] · [Policy note](/files/ai_sector_policy.pdf)
+[Paper: Comming soon !] · [Policy note](/files/ai_sector_policy.pdf)
 
 
 ### AI and Market Dynamics: entry, innovation, and concentration
 
-
+*Comming soon !*
 
 ## Machine-learning publications
 
