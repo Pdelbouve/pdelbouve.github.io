@@ -36,7 +36,7 @@ Using weekly model-level usage and price data from OpenRouter, combined with cap
 ### Consistent metropolitan boundaries for the remote sensing of urban land
 
 *with Michiel N. Daams, Alexandre Banquet and Paolo Veneri*  
-*Remote Sensing of Environment, 2023*
+*[Remote Sensing of Environment, 2023](https://www.sciencedirect.com/science/article/pii/S0034425723003401)*
 
 We introduce an internationally consistent definition of metropolitan areas 
 for remote-sensing applications and apply it to 687 European metropolitan 
@@ -50,7 +50,7 @@ classification accuracy.
 ### Monitoring land use in cities using satellite imagery and deep learning
 
 *with Alexandre Banquet, Michiel N. Daams and Paolo Veneri*  
-*OECD Regional Development Papers, 2022*
+*[OECD Regional Development Papers, 2022](https://www.oecd.org/en/publications/monitoring-land-use-in-cities-using-satellite-imagery-and-deep-learning_dc8e85d5-en.html)*
 
 We develop a deep-learning approach to monitor urban land use from Sentinel 
 satellite imagery. Applying a U-Net model to 687 European metropolitan areas, 
