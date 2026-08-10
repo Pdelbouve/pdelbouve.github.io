@@ -31,7 +31,7 @@ Using weekly model-level usage and price data from OpenRouter, combined with cap
 
 
 
-## Machine Learning and Remote Sensing
+## Machine-learning publications
 
 ### Consistent metropolitan boundaries for the remote sensing of urban land
 
