@@ -7,7 +7,6 @@ author_profile: true
 ## Working Papers
 
 ### Diffusion de l'intelligence artificielle en France
-
 *with Philippe Aghion, Antonin Bergeaud and Simon Bunel*
 
 Using more than 120 million online job postings in France since 2019, 
