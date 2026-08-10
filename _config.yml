@@ -13,9 +13,9 @@ title                    : "Paul Delbouve"
 title_separator          : "-"
 name                     : &name "Paul Delbouve"
 description              : &description "PhD Candidate in Economics | Artificial Intelligence, Innovation and Firm Dynamics"
-url                      : "https://pauldelbouve.github.io"
+url                      : "https://pdelbouve.github.io"
 baseurl                  : ""
-repository               : "pauldelbouve/pauldelbouve.github.io"
+repository               : "pdelbouve/pdelbouve.github.io.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
