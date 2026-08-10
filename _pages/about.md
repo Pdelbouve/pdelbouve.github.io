@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website ! 
+## Welcome to my website ! 
 
 I am a PhD candidate in economics at the Paris School of Economics, affiliated with the [Farhi Innovation Lab](https://www.farhi-innovation-lab.fr/fr/) at the Collège de France and the [Laboratory for Innovation and Future Transformations (LIFT)](https://heclift.github.io/website/) in HEC Paris. 
 
