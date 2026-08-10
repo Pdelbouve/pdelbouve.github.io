@@ -408,11 +408,18 @@
 
 .page__content h3 {
   font-size: 1.18em;
-  font-weight: 600;
+  font-weight: 700;
   margin-top: 1.7em;
   margin-bottom: 0.25em;
 }
 
 .abstract-label {
   font-weight: 700;
+}
+
+.paper-abstract {
+  margin-top: 0.65em;
+  margin-bottom: 0.8em;
+  text-align: justify;
+  hyphens: auto;
 }
