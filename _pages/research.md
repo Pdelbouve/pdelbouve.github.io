@@ -21,7 +21,7 @@ and employment, together with a reallocation of hiring across occupations.
 ## Work in Progress
 
 ### China Shock 3.0? Creative Destruction in the AI Sector 
-[Paper: Comming soon !] · [[Policy note](/files/ai_sector_policy.pdf)]
+[Paper: Coming soon !] · [[Policy note](/files/ai_sector_policy.pdf)]
 
 <p class="paper-abstract">
   <strong>Abstract:</strong>
@@ -30,7 +30,7 @@ Using weekly model-level usage and price data from OpenRouter, combined with cap
 
 ### AI and Market Dynamics: entry, innovation, and concentration
 
-*Comming soon !*
+*Coming soon !*
 
 ## Machine-learning publications
 
