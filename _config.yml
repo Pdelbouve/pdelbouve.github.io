@@ -33,7 +33,7 @@ author:
  # Academic websites
   academia         :
   arxiv            :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=nEMyCDQAAAAJ&hl=fr"
   inspire-hep      :
   impactstory      :
   orcid            :
