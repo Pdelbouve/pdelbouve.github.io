@@ -36,7 +36,7 @@ Using weekly model-level usage and price data from OpenRouter, combined with cap
 
 ### L’augmentation des factures d’IA et la montée de l’open weight
 
-*with Antonin Bergeaud and Etienne Grass*  [[Policy note](https://heclift.github.io/website/files/papers/LIFT_PolicyPaper_2026-03.pdf)]
+*with Antonin Bergeaud and Etienne Grass*  [[Policy note](/files/LIFT_PolicyPaper_2026-03.pdf)]
 
 ## Machine-learning publications
 
