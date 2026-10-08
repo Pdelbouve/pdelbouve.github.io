@@ -32,12 +32,6 @@ Using weekly model-level usage and price data from OpenRouter, combined with cap
 
 *Coming soon !*
 
-## Policy Notes
-
-### L’augmentation des factures d’IA et la montée de l’open weight
-
-*with Antonin Bergeaud and Etienne Grass*  [[Policy note](/files/LIFT_PolicyPaper_2026-03.pdf)]
-
 ## Machine-learning publications
 
 ### Consistent metropolitan boundaries for the remote sensing of urban land
@@ -66,3 +60,9 @@ satellite imagery. Applying a U-Net model to 687 European metropolitan areas,
 we map residential and business-related land use and provide a scalable 
 framework for tracking urban development consistently and in near real time.
 </p>
+
+## Policy Notes
+
+### L’augmentation des factures d’IA et la montée de l’open weight
+
+*with Antonin Bergeaud and Etienne Grass*  [[Policy note](/files/LIFT_PolicyPaper_2026-03.pdf)]
