@@ -424,3 +424,44 @@
   text-align: justify;
   hyphens: auto;
 }
+
+.paper-abstract-toggle {
+  margin-top: 0.45em;
+  margin-bottom: 0.8em;
+
+  summary {
+    display: inline-block;
+    cursor: pointer;
+    padding: 0.28em 0.65em;
+    font-size: 0.9em;
+    font-weight: 600;
+    line-height: 1.2;
+    border: 1px solid var(--global-border-color);
+    border-radius: 4px;
+    user-select: none;
+    transition: $global-transition;
+
+    &:hover {
+      border-color: var(--global-link-color-hover);
+      color: var(--global-link-color-hover);
+    }
+
+    &::-webkit-details-marker {
+      display: none;
+    }
+  }
+
+  .abstract-hide {
+    display: none;
+  }
+
+  &[open] {
+    .abstract-show {
+      display: none;
+    }
+
+    .abstract-hide {
+      display: inline;
+    }
+  }
+}
