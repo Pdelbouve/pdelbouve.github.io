@@ -71,6 +71,10 @@ framework for tracking urban development consistently and in near real time.
 
 ## Policy Notes
 
+### Innovation et rattrapage sur le marché des modèles d’IA
+
+[[Policy note](/files/LIFT_PolicyPaper_2026-04.pdf)]
+
 ### L’augmentation des factures d’IA et la montée de l’open weight
 
 *with Antonin Bergeaud and Etienne Grass*  [[Policy note](/files/LIFT_PolicyPaper_2026-03.pdf)]
