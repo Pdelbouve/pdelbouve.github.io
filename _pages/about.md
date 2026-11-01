@@ -17,4 +17,4 @@ My research explores the relationship between artificial intelligence, labor and
 
 ## News
 
-**October 2026 — New policy note:** [Innovation et rattrapage sur le marché des modèles d’IA](/files/LIFT_PolicyPaper_2026-04.pdf)
+**October 2026 — New policy note (in French):** [Innovation et rattrapage sur le marché des modèles d’IA](/files/LIFT_PolicyPaper_2026-04.pdf)
