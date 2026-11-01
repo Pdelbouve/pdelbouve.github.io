@@ -14,3 +14,7 @@ I am a PhD candidate in economics at the Paris School of Economics, affiliated w
 I'm also an economist at the [Direction Générale des Entreprises](https://www.entreprises.gouv.fr/), where I'm working on public policies to foster AI development and diffusion in France.
 
 My research explores the relationship between artificial intelligence, labor and firm dynamics, studying both how AI changes competitive dynamics across firms and workers and how competition shapes the market for AI technologies.
+
+## News
+
+**October 2026 — New policy note:** [Innovation et rattrapage sur le marché des modèles d’IA](/files/LIFT_PolicyPaper_2026-04.pdf)
