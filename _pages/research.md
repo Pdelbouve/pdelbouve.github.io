@@ -23,7 +23,7 @@ and employment, together with a reallocation of hiring across occupations.
 ## Work in Progress
 
 ### China Shock 3.0? Creative Destruction in the AI Sector 
-[Paper: Coming soon !] · [[Policy note](/files/ai_sector_policy.pdf)]
+[Paper: Coming soon !] · [[Policy note](/files/LIFT_PolicyPaper_2026-04_English.pdf)]
 
 <button class="abstract-toggle-button" type="button" aria-expanded="false" aria-controls="abstract-2">Show abstract</button>
 <div class="paper-abstract-container" id="abstract-2" hidden>
@@ -71,9 +71,9 @@ framework for tracking urban development consistently and in near real time.
 
 ## Policy Notes
 
-### Innovation et rattrapage sur le marché des modèles d’IA
+### Innovation and Catch-up in the AI Model Market
 
-[[Policy note](/files/LIFT_PolicyPaper_2026-04.pdf)]
+[[English](/files/LIFT_PolicyPaper_2026-04_English.pdf)] · [[French](/files/LIFT_PolicyPaper_2026-04.pdf)]
 
 ### L’augmentation des factures d’IA et la montée de l’open weight
 
