@@ -22,13 +22,13 @@ and employment, together with a reallocation of hiring across occupations.
 
 ## Work in Progress
 
-### China Shock 3.0? Creative Destruction in the AI Sector 
-[Paper: Coming soon !] · [[Policy note](/files/LIFT_PolicyPaper_2026-04_English.pdf)]
+### Innovation and Competition in the AI Industry: Is Frontier AI Development Sustainable?
+[[Paper](/files/Innovation_and_Competition_in_the_AI_Industry.pdf)] · [[Policy note](/files/LIFT_PolicyPaper_2026-04_English.pdf)]
 
 <button class="abstract-toggle-button" type="button" aria-expanded="false" aria-controls="abstract-2">Show abstract</button>
 <div class="paper-abstract-container" id="abstract-2" hidden>
   <p class="paper-abstract">
-Using weekly model-level usage and price data from OpenRouter, combined with capability measures from Artificial Analysis, this project examines the creation and destruction of innovation rents in the AI-model market. Frontier releases generate large but short-lived gains, while entry by cheaper comparable-quality models erodes incumbent usage and market share through substantial business stealing. Yet leading providers continue to benefit from rapid market expansion and retain a segment of users willing to pay for premium-quality models. These dynamics are rationalized with a Schumpeterian model of frontier innovation and low-cost catch-up.
+Developing frontier AI is increasingly costly. Another feature of the AI industry, however, is the speed at which competitors catch up technologically, exposing frontier developers to intense price competition. Can frontier AI development remain economically viable under these conditions? With OpenRouter usage data we study competition and innovation dynamics in the AI sector. Event-study estimates associate frontier-model releases with a 69% increase in providers’ revenue and lower-cost catch-up with a 26% decline in exposed incumbents’ revenue. Users nevertheless redirect spending toward new, higher-quality models from incumbent providers, while frontier users continue to favor high-quality alternatives. These patterns are consistent with defensive innovation and persistent demand for frontier capabilities. We develop and calibrate a Schumpeterian-style model reflecting AI’s general-purpose character: frontier advances open additional uses, while cheaper catch-up broadens adoption of established capabilities. Our preliminary quantitative analysis shows continued frontier progress even under catch-up and partial exhaustion of new uses, with investment particularly sensitive to background demand growth. Alternative scenarios illustrate how stronger protection of innovation rewards can support frontier research and further automation while raising the cost of accessing established capabilities. These findings link frontier sustainability to market expansion and the balance between innovation rewards and affordable diffusion.
   </p>
 </div>
 
