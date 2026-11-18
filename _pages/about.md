@@ -17,4 +17,6 @@ My research explores the relationship between artificial intelligence, labor and
 
 ## News
 
+**November 2026 — New working paper:** [Innovation and Competition in the AI Industry: Is Frontier AI Development Sustainable?](/files/Innovation_and_Competition_in_the_AI_Industry.pdf)
+
 **October 2026 — New policy note:** *Innovation and Catch-up in the AI Model Market* [[English](/files/LIFT_PolicyPaper_2026-04_English.pdf)] · [[French](/files/LIFT_PolicyPaper_2026-04.pdf)]
